@@ -17,7 +17,7 @@ This repository contains all the necessary files to follow along with this tutor
 - **Visual Studio Code**: Download and install Visual Studio Code [here](https://code.visualstudio.com/Download).
 - **Salesforce CLI**: Download and install Salesforce CLI [here](https://developer.salesforce.com/tools/sfdxcli).
 
-## Setup Instructions
+## Setup
 
 1. **Install Salesforce CLI and Visual Studio Code**: Ensure you have Salesforce CLI and Visual Studio Code installed on your system.
 2. **Create Twilio Account**: Sign up for a Twilio account and note your Account SID and Auth Token.
